@@ -10,6 +10,6 @@ Different ways for calculating fibonacci of a number.
   - **Time_complexity** : O(n)  
   - **Space_complexity** : O(n)  
  
-- Fibonacci_SO : This file contains space optimized method for calculating the fibonacci of a number.  
+- Fibonacci_SO : This file contains **space optimized** method for calculating the fibonacci of a number.  
   - Time complexity : O(n)
   - Space complexity : O(1)
