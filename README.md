@@ -12,4 +12,8 @@ Different ways for calculating fibonacci of a number.
  
 - Fibonacci_SO : This file contains **space optimized** method for calculating the fibonacci of a number.  
   - Time complexity : O(n)
-  - Space complexity : O(1)
+  - Space complexity : O(1)  
+  
+ - Fibonacci_power_of_matrix : This file contains a matrix solution for calculating fibonacci of a number.  
+   - Time complexity : O(n)
+   - Space complexity : O(1)
