@@ -17,3 +17,7 @@ Different ways for calculating fibonacci of a number.
  - Fibonacci_power_of_matrix : This file contains a **matrix** **solution** for calculating fibonacci of a number.  
    - **Time** **complexity** : O(n)
    - **Space** **complexity** : O(1)
+
+- Fibonacci_optimized : This file contains a **matrix solution** for calculating fibnacci of a number but with an optimized solution.  
+  - **Time complexity** : O(logn)  
+  - **Space complexity** : O(logn)
